@@ -1,0 +1,48 @@
+.layui-footer{
+    text-align: center;
+    font-size: 12px;
+}
+.iconfont{
+    padding-right: 8px;
+}
+.layui-icon{
+    padding-right: 10px;
+    padding-left: 20px;
+}
+.layui-body{
+    overflow: hidden;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+a{
+    transition: none!important;
+}
+/* 左侧头像 */
+.layui-side-scroll{
+    width: 200px;
+}
+.layui-side-scroll .touxiang{
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 12px;
+    border-bottom: 1px solid #000000;
+}
+.zi{
+    display: inline-block;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: pink;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.layui-nav-img{
+    width: 40px;
+    height: 40px;
+}
